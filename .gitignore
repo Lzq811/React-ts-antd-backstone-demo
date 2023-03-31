@@ -10,6 +10,11 @@
 
 # production
 /build
+/dist
+
+#compress files
+*.zip
+*.rar
 
 # misc
 .DS_Store
